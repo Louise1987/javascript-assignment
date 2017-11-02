@@ -1,1 +1,1 @@
-/Users/louisethomssonerixon/Documents/GitHub/javascript-assignment/techshop/
+http://louisethomssonerixon.wieg17.se/projekt/techshop/
