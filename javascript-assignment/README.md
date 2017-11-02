@@ -1,1 +1,1 @@
-Här är min javascript upg. Jag har lagt alla kommentarer i html, js och har inte så mycket mer att tillägga. Jag är väldigt nöjd med det jag gjort då jag aldrig tidigare hållit på med javascript. 
+/Users/louisethomssonerixon/Documents/GitHub/javascript-assignment/techshop/
